@@ -13,7 +13,7 @@ import signal
 
 jobid = None
 joblist = None
-ports = ["8888"]
+ports = ["8890"]
 
 def exit_signal_handler(signal, frame):
   print("\nSignal Exit")
@@ -40,15 +40,15 @@ signal.signal(signal.SIGINT, exit_signal_handler)
 print()
 print('Script started')
 
-if "--" not in sys.argv:
-    firstargs = sys.argv[1:]
-    secondargs = []
-else:
-    index = sys.argv.index("--")
-    firstargs = sys.argv[1:index]
-    secondargs = sys.argv[index + 1:]
+#if "--" not in sys.argv:
+#    firstargs = sys.argv[1:]
+#    secondargs = []
+#else:
+#    index = sys.argv.index("--")
+#    firstargs = sys.argv[1:index]
+#    secondargs = sys.argv[index + 1:]
 
-with Popen(['sbatch'] + firstargs + ['notebookjob.sh'] + ports + secondargs, stdin=PIPE, stdout=PIPE, stderr=PIPE) as proc:
+with Popen(['sbatch'] + ['notebookjob.sh'] + ports, stdin=PIPE, stdout=PIPE, stderr=PIPE) as proc:
     jobline = proc.stdout.readline().decode()
     jobline = jobline.strip()
     vals = jobline.split(';')

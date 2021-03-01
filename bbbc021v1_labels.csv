@@ -1,0 +1,661 @@
+;compound;concentration;moa;plate;well;replicate
+0;anisomycin;0.3;Protein synthesis;Week4_27542;B06;3
+1;anisomycin;0.3;Protein synthesis;Week4_27542;B06;3
+2;anisomycin;0.3;Protein synthesis;Week4_27542;B06;3
+3;anisomycin;0.3;Protein synthesis;Week4_27542;B06;3
+4;anisomycin;1.0;Protein synthesis;Week4_27542;B05;3
+5;anisomycin;1.0;Protein synthesis;Week4_27542;B05;3
+6;anisomycin;1.0;Protein synthesis;Week4_27542;B05;3
+7;anisomycin;1.0;Protein synthesis;Week4_27542;B05;3
+8;AZ841;0.1;Aurora kinase inhibitors;Week3_25461;E08;3
+9;AZ841;0.1;Aurora kinase inhibitors;Week3_25461;E08;3
+10;AZ841;0.1;Aurora kinase inhibitors;Week3_25461;E08;3
+11;AZ841;0.1;Aurora kinase inhibitors;Week3_25461;E08;3
+12;AZ841;0.3;Aurora kinase inhibitors;Week3_25461;E07;3
+13;AZ841;0.3;Aurora kinase inhibitors;Week3_25461;E07;3
+14;AZ841;0.3;Aurora kinase inhibitors;Week3_25461;E07;3
+15;AZ841;0.3;Aurora kinase inhibitors;Week3_25461;E07;3
+16;AZ841;1.0;Aurora kinase inhibitors;Week3_25461;E06;3
+17;AZ841;1.0;Aurora kinase inhibitors;Week3_25461;E06;3
+18;AZ841;1.0;Aurora kinase inhibitors;Week3_25461;E06;3
+19;AZ841;1.0;Aurora kinase inhibitors;Week3_25461;E06;3
+20;etoposide;1.0;DNA damage;Week3_25461;F06;3
+21;etoposide;1.0;DNA damage;Week3_25461;F06;3
+22;etoposide;1.0;DNA damage;Week3_25461;F06;3
+23;etoposide;1.0;DNA damage;Week3_25461;F06;3
+24;etoposide;3.0;DNA damage;Week3_25461;F05;3
+25;etoposide;3.0;DNA damage;Week3_25461;F05;3
+26;etoposide;3.0;DNA damage;Week3_25461;F05;3
+27;etoposide;3.0;DNA damage;Week3_25461;F05;3
+28;etoposide;10.0;DNA damage;Week3_25461;F04;3
+29;etoposide;10.0;DNA damage;Week3_25461;F04;3
+30;etoposide;10.0;DNA damage;Week3_25461;F04;3
+31;etoposide;10.0;DNA damage;Week3_25461;F04;3
+32;AZ-C;0.001;Eg5 inhibitors;Week3_25461;D09;3
+33;AZ-C;0.001;Eg5 inhibitors;Week3_25461;D09;3
+34;AZ-C;0.001;Eg5 inhibitors;Week3_25461;D09;3
+35;AZ-C;0.001;Eg5 inhibitors;Week3_25461;D09;3
+36;AZ-C;0.003;Eg5 inhibitors;Week3_25461;D08;3
+37;AZ-C;0.003;Eg5 inhibitors;Week3_25461;D08;3
+38;AZ-C;0.003;Eg5 inhibitors;Week3_25461;D08;3
+39;AZ-C;0.003;Eg5 inhibitors;Week3_25461;D08;3
+40;AZ-C;0.01;Eg5 inhibitors;Week3_25461;D07;3
+41;AZ-C;0.01;Eg5 inhibitors;Week3_25461;D07;3
+42;AZ-C;0.01;Eg5 inhibitors;Week3_25461;D07;3
+43;AZ-C;0.01;Eg5 inhibitors;Week3_25461;D07;3
+44;AZ-C;0.03;Eg5 inhibitors;Week3_25461;D06;3
+45;AZ-C;0.03;Eg5 inhibitors;Week3_25461;D06;3
+46;AZ-C;0.03;Eg5 inhibitors;Week3_25461;D06;3
+47;AZ-C;0.03;Eg5 inhibitors;Week3_25461;D06;3
+48;AZ-C;0.1;Eg5 inhibitors;Week3_25461;D05;3
+49;AZ-C;0.1;Eg5 inhibitors;Week3_25461;D05;3
+50;AZ-C;0.1;Eg5 inhibitors;Week3_25461;D05;3
+51;AZ-C;0.1;Eg5 inhibitors;Week3_25461;D05;3
+52;AZ-C;0.3;Eg5 inhibitors;Week3_25461;D04;3
+53;AZ-C;0.3;Eg5 inhibitors;Week3_25461;D04;3
+54;AZ-C;0.3;Eg5 inhibitors;Week3_25461;D04;3
+55;AZ-C;0.3;Eg5 inhibitors;Week3_25461;D04;3
+56;AZ-C;1.0;Eg5 inhibitors;Week3_25461;D03;3
+57;AZ-C;1.0;Eg5 inhibitors;Week3_25461;D03;3
+58;AZ-C;1.0;Eg5 inhibitors;Week3_25461;D03;3
+59;AZ-C;1.0;Eg5 inhibitors;Week3_25461;D03;3
+60;anisomycin;0.3;Protein synthesis;Week4_27521;B06;2
+61;anisomycin;0.3;Protein synthesis;Week4_27521;B06;2
+62;anisomycin;0.3;Protein synthesis;Week4_27521;B06;2
+63;anisomycin;0.3;Protein synthesis;Week4_27521;B06;2
+64;anisomycin;1.0;Protein synthesis;Week4_27521;B05;2
+65;anisomycin;1.0;Protein synthesis;Week4_27521;B05;2
+66;anisomycin;1.0;Protein synthesis;Week4_27521;B05;2
+67;anisomycin;1.0;Protein synthesis;Week4_27521;B05;2
+68;AZ138;0.03;Eg5 inhibitors;Week10_40111;C09;1
+69;AZ138;0.03;Eg5 inhibitors;Week10_40111;C09;1
+70;AZ138;0.03;Eg5 inhibitors;Week10_40111;C09;1
+71;AZ138;0.03;Eg5 inhibitors;Week10_40111;C09;1
+72;AZ138;0.1;Eg5 inhibitors;Week10_40111;C08;1
+73;AZ138;0.1;Eg5 inhibitors;Week10_40111;C08;1
+74;AZ138;0.1;Eg5 inhibitors;Week10_40111;C08;1
+75;AZ138;0.1;Eg5 inhibitors;Week10_40111;C08;1
+76;AZ138;0.3;Eg5 inhibitors;Week10_40111;C07;1
+77;AZ138;0.3;Eg5 inhibitors;Week10_40111;C07;1
+78;AZ138;0.3;Eg5 inhibitors;Week10_40111;C07;1
+79;AZ138;0.3;Eg5 inhibitors;Week10_40111;C07;1
+80;AZ138;1.0;Eg5 inhibitors;Week10_40111;C06;1
+81;AZ138;1.0;Eg5 inhibitors;Week10_40111;C06;1
+82;AZ138;1.0;Eg5 inhibitors;Week10_40111;C06;1
+83;AZ138;1.0;Eg5 inhibitors;Week10_40111;C06;1
+84;AZ138;3.0;Eg5 inhibitors;Week10_40111;C05;1
+85;AZ138;3.0;Eg5 inhibitors;Week10_40111;C05;1
+86;AZ138;3.0;Eg5 inhibitors;Week10_40111;C05;1
+87;AZ138;3.0;Eg5 inhibitors;Week10_40111;C05;1
+88;simvastatin;2.0;Cholesterol-lowering;Week9_39283;D05;2
+89;simvastatin;2.0;Cholesterol-lowering;Week9_39283;D05;2
+90;simvastatin;2.0;Cholesterol-lowering;Week9_39283;D05;2
+91;simvastatin;2.0;Cholesterol-lowering;Week9_39283;D05;2
+92;simvastatin;6.0;Cholesterol-lowering;Week9_39283;D04;2
+93;simvastatin;6.0;Cholesterol-lowering;Week9_39283;D04;2
+94;simvastatin;6.0;Cholesterol-lowering;Week9_39283;D04;2
+95;simvastatin;6.0;Cholesterol-lowering;Week9_39283;D04;2
+96;simvastatin;20.0;Cholesterol-lowering;Week9_39283;D03;2
+97;simvastatin;20.0;Cholesterol-lowering;Week9_39283;D03;2
+98;simvastatin;20.0;Cholesterol-lowering;Week9_39283;D03;2
+99;simvastatin;20.0;Cholesterol-lowering;Week9_39283;D03;2
+100;floxuridine;10.0;DNA replication;Week9_39283;B05;2
+101;floxuridine;10.0;DNA replication;Week9_39283;B05;2
+102;floxuridine;10.0;DNA replication;Week9_39283;B05;2
+103;floxuridine;10.0;DNA replication;Week9_39283;B05;2
+104;floxuridine;30.0;DNA replication;Week9_39283;B04;2
+105;floxuridine;30.0;DNA replication;Week9_39283;B04;2
+106;floxuridine;30.0;DNA replication;Week9_39283;B04;2
+107;floxuridine;30.0;DNA replication;Week9_39283;B04;2
+108;mitoxantrone;0.003;DNA replication;Week9_39283;F10;2
+109;mitoxantrone;0.003;DNA replication;Week9_39283;F10;2
+110;mitoxantrone;0.003;DNA replication;Week9_39283;F10;2
+111;mitoxantrone;0.003;DNA replication;Week9_39283;F10;2
+112;mitoxantrone;0.01;DNA replication;Week9_39283;F09;2
+113;mitoxantrone;0.01;DNA replication;Week9_39283;F09;2
+114;mitoxantrone;0.01;DNA replication;Week9_39283;F09;2
+115;mitoxantrone;0.01;DNA replication;Week9_39283;F09;2
+116;AZ138;0.03;Eg5 inhibitors;Week10_40119;C09;3
+117;AZ138;0.03;Eg5 inhibitors;Week10_40119;C09;3
+118;AZ138;0.03;Eg5 inhibitors;Week10_40119;C09;3
+119;AZ138;0.03;Eg5 inhibitors;Week10_40119;C09;3
+120;AZ138;0.1;Eg5 inhibitors;Week10_40119;C08;3
+121;AZ138;0.1;Eg5 inhibitors;Week10_40119;C08;3
+122;AZ138;0.1;Eg5 inhibitors;Week10_40119;C08;3
+123;AZ138;0.1;Eg5 inhibitors;Week10_40119;C08;3
+124;AZ138;0.3;Eg5 inhibitors;Week10_40119;C07;3
+125;AZ138;0.3;Eg5 inhibitors;Week10_40119;C07;3
+126;AZ138;0.3;Eg5 inhibitors;Week10_40119;C07;3
+127;AZ138;0.3;Eg5 inhibitors;Week10_40119;C07;3
+128;AZ138;1.0;Eg5 inhibitors;Week10_40119;C06;3
+129;AZ138;1.0;Eg5 inhibitors;Week10_40119;C06;3
+130;AZ138;1.0;Eg5 inhibitors;Week10_40119;C06;3
+131;AZ138;1.0;Eg5 inhibitors;Week10_40119;C06;3
+132;AZ138;3.0;Eg5 inhibitors;Week10_40119;C05;3
+133;AZ138;3.0;Eg5 inhibitors;Week10_40119;C05;3
+134;AZ138;3.0;Eg5 inhibitors;Week10_40119;C05;3
+135;AZ138;3.0;Eg5 inhibitors;Week10_40119;C05;3
+136;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39222;E06;3
+137;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39222;E06;3
+138;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39222;E06;3
+139;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39222;E06;3
+140;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39222;E05;3
+141;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39222;E05;3
+142;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39222;E05;3
+143;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39222;E05;3
+144;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39222;E04;3
+145;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39222;E04;3
+146;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39222;E04;3
+147;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39222;E04;3
+148;chlorambucil;10.0;DNA damage;Week3_25721;F03;3
+149;chlorambucil;10.0;DNA damage;Week3_25721;F03;3
+150;chlorambucil;10.0;DNA damage;Week3_25721;F03;3
+151;chlorambucil;10.0;DNA damage;Week3_25721;F03;3
+152;cisplatin;10.0;DNA damage;Week3_25721;E04;3
+153;cisplatin;10.0;DNA damage;Week3_25721;E04;3
+154;cisplatin;10.0;DNA damage;Week3_25721;E04;3
+155;cisplatin;10.0;DNA damage;Week3_25721;E04;3
+156;emetine;0.1;Protein synthesis;Week3_25721;C08;3
+157;emetine;0.1;Protein synthesis;Week3_25721;C08;3
+158;emetine;0.1;Protein synthesis;Week3_25721;C08;3
+159;emetine;0.1;Protein synthesis;Week3_25721;C08;3
+160;emetine;0.3;Protein synthesis;Week3_25721;C07;3
+161;emetine;0.3;Protein synthesis;Week3_25721;C07;3
+162;emetine;0.3;Protein synthesis;Week3_25721;C07;3
+163;emetine;0.3;Protein synthesis;Week3_25721;C07;3
+164;emetine;1.0;Protein synthesis;Week3_25721;C06;3
+165;emetine;1.0;Protein synthesis;Week3_25721;C06;3
+166;emetine;1.0;Protein synthesis;Week3_25721;C06;3
+167;emetine;1.0;Protein synthesis;Week3_25721;C06;3
+168;simvastatin;2.0;Cholesterol-lowering;Week9_39282;D05;1
+169;simvastatin;2.0;Cholesterol-lowering;Week9_39282;D05;1
+170;simvastatin;2.0;Cholesterol-lowering;Week9_39282;D05;1
+171;simvastatin;2.0;Cholesterol-lowering;Week9_39282;D05;1
+172;simvastatin;6.0;Cholesterol-lowering;Week9_39282;D04;1
+173;simvastatin;6.0;Cholesterol-lowering;Week9_39282;D04;1
+174;simvastatin;6.0;Cholesterol-lowering;Week9_39282;D04;1
+175;simvastatin;6.0;Cholesterol-lowering;Week9_39282;D04;1
+176;simvastatin;20.0;Cholesterol-lowering;Week9_39282;D03;1
+177;simvastatin;20.0;Cholesterol-lowering;Week9_39282;D03;1
+178;simvastatin;20.0;Cholesterol-lowering;Week9_39282;D03;1
+179;simvastatin;20.0;Cholesterol-lowering;Week9_39282;D03;1
+180;floxuridine;10.0;DNA replication;Week9_39282;B05;1
+181;floxuridine;10.0;DNA replication;Week9_39282;B05;1
+182;floxuridine;10.0;DNA replication;Week9_39282;B05;1
+183;floxuridine;10.0;DNA replication;Week9_39282;B05;1
+184;floxuridine;30.0;DNA replication;Week9_39282;B04;1
+185;floxuridine;30.0;DNA replication;Week9_39282;B04;1
+186;floxuridine;30.0;DNA replication;Week9_39282;B04;1
+187;floxuridine;30.0;DNA replication;Week9_39282;B04;1
+188;mitoxantrone;0.003;DNA replication;Week9_39282;F10;1
+189;mitoxantrone;0.003;DNA replication;Week9_39282;F10;1
+190;mitoxantrone;0.003;DNA replication;Week9_39282;F10;1
+191;mitoxantrone;0.003;DNA replication;Week9_39282;F10;1
+192;mitoxantrone;0.01;DNA replication;Week9_39282;F09;1
+193;mitoxantrone;0.01;DNA replication;Week9_39282;F09;1
+194;mitoxantrone;0.01;DNA replication;Week9_39282;F09;1
+195;mitoxantrone;0.01;DNA replication;Week9_39282;F09;1
+196;AZ-A;0.1;Aurora kinase inhibitors;Week1_22161;G08;3
+197;AZ-A;0.1;Aurora kinase inhibitors;Week1_22161;G08;3
+198;AZ-A;0.1;Aurora kinase inhibitors;Week1_22161;G08;3
+199;AZ-A;0.1;Aurora kinase inhibitors;Week1_22161;G08;3
+200;AZ-A;0.3;Aurora kinase inhibitors;Week1_22161;G07;3
+201;AZ-A;0.3;Aurora kinase inhibitors;Week1_22161;G07;3
+202;AZ-A;0.3;Aurora kinase inhibitors;Week1_22161;G07;3
+203;AZ-A;0.3;Aurora kinase inhibitors;Week1_22161;G07;3
+204;AZ-A;1.0;Aurora kinase inhibitors;Week1_22161;G06;3
+205;AZ-A;1.0;Aurora kinase inhibitors;Week1_22161;G06;3
+206;AZ-A;1.0;Aurora kinase inhibitors;Week1_22161;G06;3
+207;AZ-A;1.0;Aurora kinase inhibitors;Week1_22161;G06;3
+208;AZ-A;3.0;Aurora kinase inhibitors;Week1_22161;G05;3
+209;AZ-A;3.0;Aurora kinase inhibitors;Week1_22161;G05;3
+210;AZ-A;3.0;Aurora kinase inhibitors;Week1_22161;G05;3
+211;AZ-A;3.0;Aurora kinase inhibitors;Week1_22161;G05;3
+212;AZ-A;10.0;Aurora kinase inhibitors;Week1_22161;G04;3
+213;AZ-A;10.0;Aurora kinase inhibitors;Week1_22161;G04;3
+214;AZ-A;10.0;Aurora kinase inhibitors;Week1_22161;G04;3
+215;AZ-A;10.0;Aurora kinase inhibitors;Week1_22161;G04;3
+216;AZ-A;30.0;Aurora kinase inhibitors;Week1_22161;G03;3
+217;AZ-A;30.0;Aurora kinase inhibitors;Week1_22161;G03;3
+218;AZ-A;30.0;Aurora kinase inhibitors;Week1_22161;G03;3
+219;AZ-A;30.0;Aurora kinase inhibitors;Week1_22161;G03;3
+220;AZ258;0.1;Aurora kinase inhibitors;Week4_27861;C08;3
+221;AZ258;0.1;Aurora kinase inhibitors;Week4_27861;C08;3
+222;AZ258;0.1;Aurora kinase inhibitors;Week4_27861;C08;3
+223;AZ258;0.1;Aurora kinase inhibitors;Week4_27861;C08;3
+224;AZ258;0.3;Aurora kinase inhibitors;Week4_27861;C07;3
+225;AZ258;0.3;Aurora kinase inhibitors;Week4_27861;C07;3
+226;AZ258;0.3;Aurora kinase inhibitors;Week4_27861;C07;3
+227;AZ258;0.3;Aurora kinase inhibitors;Week4_27861;C07;3
+228;AZ258;1.0;Aurora kinase inhibitors;Week4_27861;C06;3
+229;AZ258;1.0;Aurora kinase inhibitors;Week4_27861;C06;3
+230;AZ258;1.0;Aurora kinase inhibitors;Week4_27861;C06;3
+231;AZ258;1.0;Aurora kinase inhibitors;Week4_27861;C06;3
+232;mitomycin C;0.1;DNA damage;Week4_27861;G07;3
+233;mitomycin C;0.1;DNA damage;Week4_27861;G07;3
+234;mitomycin C;0.1;DNA damage;Week4_27861;G07;3
+235;mitomycin C;0.1;DNA damage;Week4_27861;G07;3
+236;mitomycin C;0.3;DNA damage;Week4_27861;G06;3
+237;mitomycin C;0.3;DNA damage;Week4_27861;G06;3
+238;mitomycin C;0.3;DNA damage;Week4_27861;G06;3
+239;mitomycin C;0.3;DNA damage;Week4_27861;G06;3
+240;mitomycin C;1.0;DNA damage;Week4_27861;G05;3
+241;mitomycin C;1.0;DNA damage;Week4_27861;G05;3
+242;mitomycin C;1.0;DNA damage;Week4_27861;G05;3
+243;mitomycin C;1.0;DNA damage;Week4_27861;G05;3
+244;mitomycin C;3.0;DNA damage;Week4_27861;G04;3
+245;mitomycin C;3.0;DNA damage;Week4_27861;G04;3
+246;mitomycin C;3.0;DNA damage;Week4_27861;G04;3
+247;mitomycin C;3.0;DNA damage;Week4_27861;G04;3
+248;cyclohexamide;5.0;Protein synthesis;Week4_27861;B05;3
+249;cyclohexamide;5.0;Protein synthesis;Week4_27861;B05;3
+250;cyclohexamide;5.0;Protein synthesis;Week4_27861;B05;3
+251;cyclohexamide;5.0;Protein synthesis;Week4_27861;B05;3
+252;cyclohexamide;15.0;Protein synthesis;Week4_27861;B04;3
+253;cyclohexamide;15.0;Protein synthesis;Week4_27861;B04;3
+254;cyclohexamide;15.0;Protein synthesis;Week4_27861;B04;3
+255;cyclohexamide;15.0;Protein synthesis;Week4_27861;B04;3
+256;cyclohexamide;50.0;Protein synthesis;Week4_27861;B03;3
+257;cyclohexamide;50.0;Protein synthesis;Week4_27861;B03;3
+258;cyclohexamide;50.0;Protein synthesis;Week4_27861;B03;3
+259;cyclohexamide;50.0;Protein synthesis;Week4_27861;B03;3
+260;AZ258;0.1;Aurora kinase inhibitors;Week4_27821;C08;2
+261;AZ258;0.1;Aurora kinase inhibitors;Week4_27821;C08;2
+262;AZ258;0.1;Aurora kinase inhibitors;Week4_27821;C08;2
+263;AZ258;0.1;Aurora kinase inhibitors;Week4_27821;C08;2
+264;AZ258;0.3;Aurora kinase inhibitors;Week4_27821;C07;2
+265;AZ258;0.3;Aurora kinase inhibitors;Week4_27821;C07;2
+266;AZ258;0.3;Aurora kinase inhibitors;Week4_27821;C07;2
+267;AZ258;0.3;Aurora kinase inhibitors;Week4_27821;C07;2
+268;AZ258;1.0;Aurora kinase inhibitors;Week4_27821;C06;2
+269;AZ258;1.0;Aurora kinase inhibitors;Week4_27821;C06;2
+270;AZ258;1.0;Aurora kinase inhibitors;Week4_27821;C06;2
+271;AZ258;1.0;Aurora kinase inhibitors;Week4_27821;C06;2
+272;mitomycin C;0.1;DNA damage;Week4_27821;G07;2
+273;mitomycin C;0.1;DNA damage;Week4_27821;G07;2
+274;mitomycin C;0.1;DNA damage;Week4_27821;G07;2
+275;mitomycin C;0.1;DNA damage;Week4_27821;G07;2
+276;mitomycin C;0.3;DNA damage;Week4_27821;G06;2
+277;mitomycin C;0.3;DNA damage;Week4_27821;G06;2
+278;mitomycin C;0.3;DNA damage;Week4_27821;G06;2
+279;mitomycin C;0.3;DNA damage;Week4_27821;G06;2
+280;mitomycin C;1.0;DNA damage;Week4_27821;G05;2
+281;mitomycin C;1.0;DNA damage;Week4_27821;G05;2
+282;mitomycin C;1.0;DNA damage;Week4_27821;G05;2
+283;mitomycin C;1.0;DNA damage;Week4_27821;G05;2
+284;mitomycin C;3.0;DNA damage;Week4_27821;G04;2
+285;mitomycin C;3.0;DNA damage;Week4_27821;G04;2
+286;mitomycin C;3.0;DNA damage;Week4_27821;G04;2
+287;mitomycin C;3.0;DNA damage;Week4_27821;G04;2
+288;cyclohexamide;5.0;Protein synthesis;Week4_27821;B05;2
+289;cyclohexamide;5.0;Protein synthesis;Week4_27821;B05;2
+290;cyclohexamide;5.0;Protein synthesis;Week4_27821;B05;2
+291;cyclohexamide;5.0;Protein synthesis;Week4_27821;B05;2
+292;cyclohexamide;15.0;Protein synthesis;Week4_27821;B04;2
+293;cyclohexamide;15.0;Protein synthesis;Week4_27821;B04;2
+294;cyclohexamide;15.0;Protein synthesis;Week4_27821;B04;2
+295;cyclohexamide;15.0;Protein synthesis;Week4_27821;B04;2
+296;cyclohexamide;50.0;Protein synthesis;Week4_27821;B03;2
+297;cyclohexamide;50.0;Protein synthesis;Week4_27821;B03;2
+298;cyclohexamide;50.0;Protein synthesis;Week4_27821;B03;2
+299;cyclohexamide;50.0;Protein synthesis;Week4_27821;B03;2
+300;camptothecin;0.003;DNA replication;Week8_38241;C10;3
+301;camptothecin;0.003;DNA replication;Week8_38241;C10;3
+302;camptothecin;0.003;DNA replication;Week8_38241;C10;3
+303;camptothecin;0.003;DNA replication;Week8_38241;C10;3
+304;camptothecin;0.01;DNA replication;Week8_38241;C09;3
+305;camptothecin;0.01;DNA replication;Week8_38241;C09;3
+306;camptothecin;0.01;DNA replication;Week8_38241;C09;3
+307;camptothecin;0.01;DNA replication;Week8_38241;C09;3
+308;camptothecin;0.03;DNA replication;Week8_38241;C08;3
+309;camptothecin;0.03;DNA replication;Week8_38241;C08;3
+310;camptothecin;0.03;DNA replication;Week8_38241;C08;3
+311;camptothecin;0.03;DNA replication;Week8_38241;C08;3
+312;methotrexate;10.0;DNA replication;Week2_24141;G03;2
+313;methotrexate;10.0;DNA replication;Week2_24141;G03;2
+314;methotrexate;10.0;DNA replication;Week2_24141;G03;2
+315;methotrexate;10.0;DNA replication;Week2_24141;G03;2
+316;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39206;E06;1
+317;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39206;E06;1
+318;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39206;E06;1
+319;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39206;E06;1
+320;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39206;E05;1
+321;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39206;E05;1
+322;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39206;E05;1
+323;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39206;E05;1
+324;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39206;E04;1
+325;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39206;E04;1
+326;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39206;E04;1
+327;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39206;E04;1
+328;AZ841;0.1;Aurora kinase inhibitors;Week3_25421;E08;1
+329;AZ841;0.1;Aurora kinase inhibitors;Week3_25421;E08;1
+330;AZ841;0.1;Aurora kinase inhibitors;Week3_25421;E08;1
+331;AZ841;0.1;Aurora kinase inhibitors;Week3_25421;E08;1
+332;AZ841;0.3;Aurora kinase inhibitors;Week3_25421;E07;1
+333;AZ841;0.3;Aurora kinase inhibitors;Week3_25421;E07;1
+334;AZ841;0.3;Aurora kinase inhibitors;Week3_25421;E07;1
+335;AZ841;0.3;Aurora kinase inhibitors;Week3_25421;E07;1
+336;AZ841;1.0;Aurora kinase inhibitors;Week3_25421;E06;1
+337;AZ841;1.0;Aurora kinase inhibitors;Week3_25421;E06;1
+338;AZ841;1.0;Aurora kinase inhibitors;Week3_25421;E06;1
+339;AZ841;1.0;Aurora kinase inhibitors;Week3_25421;E06;1
+340;etoposide;1.0;DNA damage;Week3_25421;F06;1
+341;etoposide;1.0;DNA damage;Week3_25421;F06;1
+342;etoposide;1.0;DNA damage;Week3_25421;F06;1
+343;etoposide;1.0;DNA damage;Week3_25421;F06;1
+344;etoposide;3.0;DNA damage;Week3_25421;F05;1
+345;etoposide;3.0;DNA damage;Week3_25421;F05;1
+346;etoposide;3.0;DNA damage;Week3_25421;F05;1
+347;etoposide;3.0;DNA damage;Week3_25421;F05;1
+348;etoposide;10.0;DNA damage;Week3_25421;F04;1
+349;etoposide;10.0;DNA damage;Week3_25421;F04;1
+350;etoposide;10.0;DNA damage;Week3_25421;F04;1
+351;etoposide;10.0;DNA damage;Week3_25421;F04;1
+352;AZ-C;0.001;Eg5 inhibitors;Week3_25421;D09;1
+353;AZ-C;0.001;Eg5 inhibitors;Week3_25421;D09;1
+354;AZ-C;0.001;Eg5 inhibitors;Week3_25421;D09;1
+355;AZ-C;0.001;Eg5 inhibitors;Week3_25421;D09;1
+356;AZ-C;0.003;Eg5 inhibitors;Week3_25421;D08;1
+357;AZ-C;0.003;Eg5 inhibitors;Week3_25421;D08;1
+358;AZ-C;0.003;Eg5 inhibitors;Week3_25421;D08;1
+359;AZ-C;0.003;Eg5 inhibitors;Week3_25421;D08;1
+360;AZ-C;0.01;Eg5 inhibitors;Week3_25421;D07;1
+361;AZ-C;0.01;Eg5 inhibitors;Week3_25421;D07;1
+362;AZ-C;0.01;Eg5 inhibitors;Week3_25421;D07;1
+363;AZ-C;0.01;Eg5 inhibitors;Week3_25421;D07;1
+364;AZ-C;0.03;Eg5 inhibitors;Week3_25421;D06;1
+365;AZ-C;0.03;Eg5 inhibitors;Week3_25421;D06;1
+366;AZ-C;0.03;Eg5 inhibitors;Week3_25421;D06;1
+367;AZ-C;0.03;Eg5 inhibitors;Week3_25421;D06;1
+368;AZ-C;0.1;Eg5 inhibitors;Week3_25421;D05;1
+369;AZ-C;0.1;Eg5 inhibitors;Week3_25421;D05;1
+370;AZ-C;0.1;Eg5 inhibitors;Week3_25421;D05;1
+371;AZ-C;0.1;Eg5 inhibitors;Week3_25421;D05;1
+372;AZ-C;0.3;Eg5 inhibitors;Week3_25421;D04;1
+373;AZ-C;0.3;Eg5 inhibitors;Week3_25421;D04;1
+374;AZ-C;0.3;Eg5 inhibitors;Week3_25421;D04;1
+375;AZ-C;0.3;Eg5 inhibitors;Week3_25421;D04;1
+376;AZ-C;1.0;Eg5 inhibitors;Week3_25421;D03;1
+377;AZ-C;1.0;Eg5 inhibitors;Week3_25421;D03;1
+378;AZ-C;1.0;Eg5 inhibitors;Week3_25421;D03;1
+379;AZ-C;1.0;Eg5 inhibitors;Week3_25421;D03;1
+380;simvastatin;2.0;Cholesterol-lowering;Week9_39301;D05;3
+381;simvastatin;2.0;Cholesterol-lowering;Week9_39301;D05;3
+382;simvastatin;2.0;Cholesterol-lowering;Week9_39301;D05;3
+383;simvastatin;2.0;Cholesterol-lowering;Week9_39301;D05;3
+384;simvastatin;6.0;Cholesterol-lowering;Week9_39301;D04;3
+385;simvastatin;6.0;Cholesterol-lowering;Week9_39301;D04;3
+386;simvastatin;6.0;Cholesterol-lowering;Week9_39301;D04;3
+387;simvastatin;6.0;Cholesterol-lowering;Week9_39301;D04;3
+388;simvastatin;20.0;Cholesterol-lowering;Week9_39301;D03;3
+389;simvastatin;20.0;Cholesterol-lowering;Week9_39301;D03;3
+390;simvastatin;20.0;Cholesterol-lowering;Week9_39301;D03;3
+391;simvastatin;20.0;Cholesterol-lowering;Week9_39301;D03;3
+392;floxuridine;10.0;DNA replication;Week9_39301;B05;3
+393;floxuridine;10.0;DNA replication;Week9_39301;B05;3
+394;floxuridine;10.0;DNA replication;Week9_39301;B05;3
+395;floxuridine;10.0;DNA replication;Week9_39301;B05;3
+396;floxuridine;30.0;DNA replication;Week9_39301;B04;3
+397;floxuridine;30.0;DNA replication;Week9_39301;B04;3
+398;floxuridine;30.0;DNA replication;Week9_39301;B04;3
+399;floxuridine;30.0;DNA replication;Week9_39301;B04;3
+400;mitoxantrone;0.003;DNA replication;Week9_39301;F10;3
+401;mitoxantrone;0.003;DNA replication;Week9_39301;F10;3
+402;mitoxantrone;0.003;DNA replication;Week9_39301;F10;3
+403;mitoxantrone;0.003;DNA replication;Week9_39301;F10;3
+404;mitoxantrone;0.01;DNA replication;Week9_39301;F09;3
+405;mitoxantrone;0.01;DNA replication;Week9_39301;F09;3
+406;mitoxantrone;0.01;DNA replication;Week9_39301;F09;3
+407;mitoxantrone;0.01;DNA replication;Week9_39301;F09;3
+408;camptothecin;0.003;DNA replication;Week8_38203;C10;1
+409;camptothecin;0.003;DNA replication;Week8_38203;C10;1
+410;camptothecin;0.003;DNA replication;Week8_38203;C10;1
+411;camptothecin;0.003;DNA replication;Week8_38203;C10;1
+412;camptothecin;0.01;DNA replication;Week8_38203;C09;1
+413;camptothecin;0.01;DNA replication;Week8_38203;C09;1
+414;camptothecin;0.01;DNA replication;Week8_38203;C09;1
+415;camptothecin;0.01;DNA replication;Week8_38203;C09;1
+416;camptothecin;0.03;DNA replication;Week8_38203;C08;1
+417;camptothecin;0.03;DNA replication;Week8_38203;C08;1
+418;camptothecin;0.03;DNA replication;Week8_38203;C08;1
+419;camptothecin;0.03;DNA replication;Week8_38203;C08;1
+420;AZ138;0.03;Eg5 inhibitors;Week10_40115;C09;2
+421;AZ138;0.03;Eg5 inhibitors;Week10_40115;C09;2
+422;AZ138;0.03;Eg5 inhibitors;Week10_40115;C09;2
+423;AZ138;0.03;Eg5 inhibitors;Week10_40115;C09;2
+424;AZ138;0.1;Eg5 inhibitors;Week10_40115;C08;2
+425;AZ138;0.1;Eg5 inhibitors;Week10_40115;C08;2
+426;AZ138;0.1;Eg5 inhibitors;Week10_40115;C08;2
+427;AZ138;0.1;Eg5 inhibitors;Week10_40115;C08;2
+428;AZ138;0.3;Eg5 inhibitors;Week10_40115;C07;2
+429;AZ138;0.3;Eg5 inhibitors;Week10_40115;C07;2
+430;AZ138;0.3;Eg5 inhibitors;Week10_40115;C07;2
+431;AZ138;0.3;Eg5 inhibitors;Week10_40115;C07;2
+432;AZ138;1.0;Eg5 inhibitors;Week10_40115;C06;2
+433;AZ138;1.0;Eg5 inhibitors;Week10_40115;C06;2
+434;AZ138;1.0;Eg5 inhibitors;Week10_40115;C06;2
+435;AZ138;1.0;Eg5 inhibitors;Week10_40115;C06;2
+436;AZ138;3.0;Eg5 inhibitors;Week10_40115;C05;2
+437;AZ138;3.0;Eg5 inhibitors;Week10_40115;C05;2
+438;AZ138;3.0;Eg5 inhibitors;Week10_40115;C05;2
+439;AZ138;3.0;Eg5 inhibitors;Week10_40115;C05;2
+440;AZ258;0.1;Aurora kinase inhibitors;Week4_27801;C08;1
+441;AZ258;0.1;Aurora kinase inhibitors;Week4_27801;C08;1
+442;AZ258;0.1;Aurora kinase inhibitors;Week4_27801;C08;1
+443;AZ258;0.1;Aurora kinase inhibitors;Week4_27801;C08;1
+444;AZ258;0.3;Aurora kinase inhibitors;Week4_27801;C07;1
+445;AZ258;0.3;Aurora kinase inhibitors;Week4_27801;C07;1
+446;AZ258;0.3;Aurora kinase inhibitors;Week4_27801;C07;1
+447;AZ258;0.3;Aurora kinase inhibitors;Week4_27801;C07;1
+448;AZ258;1.0;Aurora kinase inhibitors;Week4_27801;C06;1
+449;AZ258;1.0;Aurora kinase inhibitors;Week4_27801;C06;1
+450;AZ258;1.0;Aurora kinase inhibitors;Week4_27801;C06;1
+451;AZ258;1.0;Aurora kinase inhibitors;Week4_27801;C06;1
+452;mitomycin C;0.1;DNA damage;Week4_27801;G07;1
+453;mitomycin C;0.1;DNA damage;Week4_27801;G07;1
+454;mitomycin C;0.1;DNA damage;Week4_27801;G07;1
+455;mitomycin C;0.1;DNA damage;Week4_27801;G07;1
+456;mitomycin C;0.3;DNA damage;Week4_27801;G06;1
+457;mitomycin C;0.3;DNA damage;Week4_27801;G06;1
+458;mitomycin C;0.3;DNA damage;Week4_27801;G06;1
+459;mitomycin C;0.3;DNA damage;Week4_27801;G06;1
+460;mitomycin C;1.0;DNA damage;Week4_27801;G05;1
+461;mitomycin C;1.0;DNA damage;Week4_27801;G05;1
+462;mitomycin C;1.0;DNA damage;Week4_27801;G05;1
+463;mitomycin C;1.0;DNA damage;Week4_27801;G05;1
+464;mitomycin C;3.0;DNA damage;Week4_27801;G04;1
+465;mitomycin C;3.0;DNA damage;Week4_27801;G04;1
+466;mitomycin C;3.0;DNA damage;Week4_27801;G04;1
+467;mitomycin C;3.0;DNA damage;Week4_27801;G04;1
+468;cyclohexamide;5.0;Protein synthesis;Week4_27801;B05;1
+469;cyclohexamide;5.0;Protein synthesis;Week4_27801;B05;1
+470;cyclohexamide;5.0;Protein synthesis;Week4_27801;B05;1
+471;cyclohexamide;5.0;Protein synthesis;Week4_27801;B05;1
+472;cyclohexamide;15.0;Protein synthesis;Week4_27801;B04;1
+473;cyclohexamide;15.0;Protein synthesis;Week4_27801;B04;1
+474;cyclohexamide;15.0;Protein synthesis;Week4_27801;B04;1
+475;cyclohexamide;15.0;Protein synthesis;Week4_27801;B04;1
+476;cyclohexamide;50.0;Protein synthesis;Week4_27801;B03;1
+477;cyclohexamide;50.0;Protein synthesis;Week4_27801;B03;1
+478;cyclohexamide;50.0;Protein synthesis;Week4_27801;B03;1
+479;cyclohexamide;50.0;Protein synthesis;Week4_27801;B03;1
+480;methotrexate;10.0;DNA replication;Week2_24161;G03;3
+481;methotrexate;10.0;DNA replication;Week2_24161;G03;3
+482;methotrexate;10.0;DNA replication;Week2_24161;G03;3
+483;methotrexate;10.0;DNA replication;Week2_24161;G03;3
+484;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39221;E06;2
+485;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39221;E06;2
+486;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39221;E06;2
+487;mevinolin/lovastatin;1.5;Cholesterol-lowering;Week9_39221;E06;2
+488;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39221;E05;2
+489;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39221;E05;2
+490;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39221;E05;2
+491;mevinolin/lovastatin;5.0;Cholesterol-lowering;Week9_39221;E05;2
+492;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39221;E04;2
+493;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39221;E04;2
+494;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39221;E04;2
+495;mevinolin/lovastatin;15.0;Cholesterol-lowering;Week9_39221;E04;2
+496;methotrexate;10.0;DNA replication;Week2_24121;G03;1
+497;methotrexate;10.0;DNA replication;Week2_24121;G03;1
+498;methotrexate;10.0;DNA replication;Week2_24121;G03;1
+499;methotrexate;10.0;DNA replication;Week2_24121;G03;1
+500;anisomycin;0.3;Protein synthesis;Week4_27481;B06;1
+501;anisomycin;0.3;Protein synthesis;Week4_27481;B06;1
+502;anisomycin;0.3;Protein synthesis;Week4_27481;B06;1
+503;anisomycin;0.3;Protein synthesis;Week4_27481;B06;1
+504;anisomycin;1.0;Protein synthesis;Week4_27481;B05;1
+505;anisomycin;1.0;Protein synthesis;Week4_27481;B05;1
+506;anisomycin;1.0;Protein synthesis;Week4_27481;B05;1
+507;anisomycin;1.0;Protein synthesis;Week4_27481;B05;1
+508;chlorambucil;10.0;DNA damage;Week3_25701;F03;2
+509;chlorambucil;10.0;DNA damage;Week3_25701;F03;2
+510;chlorambucil;10.0;DNA damage;Week3_25701;F03;2
+511;chlorambucil;10.0;DNA damage;Week3_25701;F03;2
+512;cisplatin;10.0;DNA damage;Week3_25701;E04;2
+513;cisplatin;10.0;DNA damage;Week3_25701;E04;2
+514;cisplatin;10.0;DNA damage;Week3_25701;E04;2
+515;cisplatin;10.0;DNA damage;Week3_25701;E04;2
+516;emetine;0.1;Protein synthesis;Week3_25701;C08;2
+517;emetine;0.1;Protein synthesis;Week3_25701;C08;2
+518;emetine;0.1;Protein synthesis;Week3_25701;C08;2
+519;emetine;0.1;Protein synthesis;Week3_25701;C08;2
+520;emetine;0.3;Protein synthesis;Week3_25701;C07;2
+521;emetine;0.3;Protein synthesis;Week3_25701;C07;2
+522;emetine;0.3;Protein synthesis;Week3_25701;C07;2
+523;emetine;0.3;Protein synthesis;Week3_25701;C07;2
+524;emetine;1.0;Protein synthesis;Week3_25701;C06;2
+525;emetine;1.0;Protein synthesis;Week3_25701;C06;2
+526;emetine;1.0;Protein synthesis;Week3_25701;C06;2
+527;emetine;1.0;Protein synthesis;Week3_25701;C06;2
+528;AZ-A;0.1;Aurora kinase inhibitors;Week1_22123;G08;1
+529;AZ-A;0.1;Aurora kinase inhibitors;Week1_22123;G08;1
+530;AZ-A;0.1;Aurora kinase inhibitors;Week1_22123;G08;1
+531;AZ-A;0.1;Aurora kinase inhibitors;Week1_22123;G08;1
+532;AZ-A;0.3;Aurora kinase inhibitors;Week1_22123;G07;1
+533;AZ-A;0.3;Aurora kinase inhibitors;Week1_22123;G07;1
+534;AZ-A;0.3;Aurora kinase inhibitors;Week1_22123;G07;1
+535;AZ-A;0.3;Aurora kinase inhibitors;Week1_22123;G07;1
+536;AZ-A;1.0;Aurora kinase inhibitors;Week1_22123;G06;1
+537;AZ-A;1.0;Aurora kinase inhibitors;Week1_22123;G06;1
+538;AZ-A;1.0;Aurora kinase inhibitors;Week1_22123;G06;1
+539;AZ-A;1.0;Aurora kinase inhibitors;Week1_22123;G06;1
+540;AZ-A;3.0;Aurora kinase inhibitors;Week1_22123;G05;1
+541;AZ-A;3.0;Aurora kinase inhibitors;Week1_22123;G05;1
+542;AZ-A;3.0;Aurora kinase inhibitors;Week1_22123;G05;1
+543;AZ-A;3.0;Aurora kinase inhibitors;Week1_22123;G05;1
+544;AZ-A;10.0;Aurora kinase inhibitors;Week1_22123;G04;1
+545;AZ-A;10.0;Aurora kinase inhibitors;Week1_22123;G04;1
+546;AZ-A;10.0;Aurora kinase inhibitors;Week1_22123;G04;1
+547;AZ-A;10.0;Aurora kinase inhibitors;Week1_22123;G04;1
+548;AZ-A;30.0;Aurora kinase inhibitors;Week1_22123;G03;1
+549;AZ-A;30.0;Aurora kinase inhibitors;Week1_22123;G03;1
+550;AZ-A;30.0;Aurora kinase inhibitors;Week1_22123;G03;1
+551;AZ-A;30.0;Aurora kinase inhibitors;Week1_22123;G03;1
+552;camptothecin;0.003;DNA replication;Week8_38221;C10;2
+553;camptothecin;0.003;DNA replication;Week8_38221;C10;2
+554;camptothecin;0.003;DNA replication;Week8_38221;C10;2
+555;camptothecin;0.003;DNA replication;Week8_38221;C10;2
+556;camptothecin;0.01;DNA replication;Week8_38221;C09;2
+557;camptothecin;0.01;DNA replication;Week8_38221;C09;2
+558;camptothecin;0.01;DNA replication;Week8_38221;C09;2
+559;camptothecin;0.01;DNA replication;Week8_38221;C09;2
+560;camptothecin;0.03;DNA replication;Week8_38221;C08;2
+561;camptothecin;0.03;DNA replication;Week8_38221;C08;2
+562;camptothecin;0.03;DNA replication;Week8_38221;C08;2
+563;camptothecin;0.03;DNA replication;Week8_38221;C08;2
+564;AZ-A;0.1;Aurora kinase inhibitors;Week1_22141;G08;2
+565;AZ-A;0.1;Aurora kinase inhibitors;Week1_22141;G08;2
+566;AZ-A;0.1;Aurora kinase inhibitors;Week1_22141;G08;2
+567;AZ-A;0.1;Aurora kinase inhibitors;Week1_22141;G08;2
+568;AZ-A;0.3;Aurora kinase inhibitors;Week1_22141;G07;2
+569;AZ-A;0.3;Aurora kinase inhibitors;Week1_22141;G07;2
+570;AZ-A;0.3;Aurora kinase inhibitors;Week1_22141;G07;2
+571;AZ-A;0.3;Aurora kinase inhibitors;Week1_22141;G07;2
+572;AZ-A;1.0;Aurora kinase inhibitors;Week1_22141;G06;2
+573;AZ-A;1.0;Aurora kinase inhibitors;Week1_22141;G06;2
+574;AZ-A;1.0;Aurora kinase inhibitors;Week1_22141;G06;2
+575;AZ-A;1.0;Aurora kinase inhibitors;Week1_22141;G06;2
+576;AZ-A;3.0;Aurora kinase inhibitors;Week1_22141;G05;2
+577;AZ-A;3.0;Aurora kinase inhibitors;Week1_22141;G05;2
+578;AZ-A;3.0;Aurora kinase inhibitors;Week1_22141;G05;2
+579;AZ-A;3.0;Aurora kinase inhibitors;Week1_22141;G05;2
+580;AZ-A;10.0;Aurora kinase inhibitors;Week1_22141;G04;2
+581;AZ-A;10.0;Aurora kinase inhibitors;Week1_22141;G04;2
+582;AZ-A;10.0;Aurora kinase inhibitors;Week1_22141;G04;2
+583;AZ-A;10.0;Aurora kinase inhibitors;Week1_22141;G04;2
+584;AZ-A;30.0;Aurora kinase inhibitors;Week1_22141;G03;2
+585;AZ-A;30.0;Aurora kinase inhibitors;Week1_22141;G03;2
+586;AZ-A;30.0;Aurora kinase inhibitors;Week1_22141;G03;2
+587;AZ-A;30.0;Aurora kinase inhibitors;Week1_22141;G03;2
+588;AZ841;0.1;Aurora kinase inhibitors;Week3_25441;E08;2
+589;AZ841;0.1;Aurora kinase inhibitors;Week3_25441;E08;2
+590;AZ841;0.1;Aurora kinase inhibitors;Week3_25441;E08;2
+591;AZ841;0.1;Aurora kinase inhibitors;Week3_25441;E08;2
+592;AZ841;0.3;Aurora kinase inhibitors;Week3_25441;E07;2
+593;AZ841;0.3;Aurora kinase inhibitors;Week3_25441;E07;2
+594;AZ841;0.3;Aurora kinase inhibitors;Week3_25441;E07;2
+595;AZ841;0.3;Aurora kinase inhibitors;Week3_25441;E07;2
+596;AZ841;1.0;Aurora kinase inhibitors;Week3_25441;E06;2
+597;AZ841;1.0;Aurora kinase inhibitors;Week3_25441;E06;2
+598;AZ841;1.0;Aurora kinase inhibitors;Week3_25441;E06;2
+599;AZ841;1.0;Aurora kinase inhibitors;Week3_25441;E06;2
+600;etoposide;1.0;DNA damage;Week3_25441;F06;2
+601;etoposide;1.0;DNA damage;Week3_25441;F06;2
+602;etoposide;1.0;DNA damage;Week3_25441;F06;2
+603;etoposide;1.0;DNA damage;Week3_25441;F06;2
+604;etoposide;3.0;DNA damage;Week3_25441;F05;2
+605;etoposide;3.0;DNA damage;Week3_25441;F05;2
+606;etoposide;3.0;DNA damage;Week3_25441;F05;2
+607;etoposide;3.0;DNA damage;Week3_25441;F05;2
+608;etoposide;10.0;DNA damage;Week3_25441;F04;2
+609;etoposide;10.0;DNA damage;Week3_25441;F04;2
+610;etoposide;10.0;DNA damage;Week3_25441;F04;2
+611;etoposide;10.0;DNA damage;Week3_25441;F04;2
+612;AZ-C;0.001;Eg5 inhibitors;Week3_25441;D09;2
+613;AZ-C;0.001;Eg5 inhibitors;Week3_25441;D09;2
+614;AZ-C;0.001;Eg5 inhibitors;Week3_25441;D09;2
+615;AZ-C;0.001;Eg5 inhibitors;Week3_25441;D09;2
+616;AZ-C;0.003;Eg5 inhibitors;Week3_25441;D08;2
+617;AZ-C;0.003;Eg5 inhibitors;Week3_25441;D08;2
+618;AZ-C;0.003;Eg5 inhibitors;Week3_25441;D08;2
+619;AZ-C;0.003;Eg5 inhibitors;Week3_25441;D08;2
+620;AZ-C;0.01;Eg5 inhibitors;Week3_25441;D07;2
+621;AZ-C;0.01;Eg5 inhibitors;Week3_25441;D07;2
+622;AZ-C;0.01;Eg5 inhibitors;Week3_25441;D07;2
+623;AZ-C;0.01;Eg5 inhibitors;Week3_25441;D07;2
+624;AZ-C;0.03;Eg5 inhibitors;Week3_25441;D06;2
+625;AZ-C;0.03;Eg5 inhibitors;Week3_25441;D06;2
+626;AZ-C;0.03;Eg5 inhibitors;Week3_25441;D06;2
+627;AZ-C;0.03;Eg5 inhibitors;Week3_25441;D06;2
+628;AZ-C;0.1;Eg5 inhibitors;Week3_25441;D05;2
+629;AZ-C;0.1;Eg5 inhibitors;Week3_25441;D05;2
+630;AZ-C;0.1;Eg5 inhibitors;Week3_25441;D05;2
+631;AZ-C;0.1;Eg5 inhibitors;Week3_25441;D05;2
+632;AZ-C;0.3;Eg5 inhibitors;Week3_25441;D04;2
+633;AZ-C;0.3;Eg5 inhibitors;Week3_25441;D04;2
+634;AZ-C;0.3;Eg5 inhibitors;Week3_25441;D04;2
+635;AZ-C;0.3;Eg5 inhibitors;Week3_25441;D04;2
+636;AZ-C;1.0;Eg5 inhibitors;Week3_25441;D03;2
+637;AZ-C;1.0;Eg5 inhibitors;Week3_25441;D03;2
+638;AZ-C;1.0;Eg5 inhibitors;Week3_25441;D03;2
+639;AZ-C;1.0;Eg5 inhibitors;Week3_25441;D03;2
+640;chlorambucil;10.0;DNA damage;Week3_25681;F03;1
+641;chlorambucil;10.0;DNA damage;Week3_25681;F03;1
+642;chlorambucil;10.0;DNA damage;Week3_25681;F03;1
+643;chlorambucil;10.0;DNA damage;Week3_25681;F03;1
+644;cisplatin;10.0;DNA damage;Week3_25681;E04;1
+645;cisplatin;10.0;DNA damage;Week3_25681;E04;1
+646;cisplatin;10.0;DNA damage;Week3_25681;E04;1
+647;cisplatin;10.0;DNA damage;Week3_25681;E04;1
+648;emetine;0.1;Protein synthesis;Week3_25681;C08;1
+649;emetine;0.1;Protein synthesis;Week3_25681;C08;1
+650;emetine;0.1;Protein synthesis;Week3_25681;C08;1
+651;emetine;0.1;Protein synthesis;Week3_25681;C08;1
+652;emetine;0.3;Protein synthesis;Week3_25681;C07;1
+653;emetine;0.3;Protein synthesis;Week3_25681;C07;1
+654;emetine;0.3;Protein synthesis;Week3_25681;C07;1
+655;emetine;0.3;Protein synthesis;Week3_25681;C07;1
+656;emetine;1.0;Protein synthesis;Week3_25681;C06;1
+657;emetine;1.0;Protein synthesis;Week3_25681;C06;1
+658;emetine;1.0;Protein synthesis;Week3_25681;C06;1
+659;emetine;1.0;Protein synthesis;Week3_25681;C06;1
