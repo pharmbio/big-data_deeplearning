@@ -1,6 +1,6 @@
 # big-data_deeplearning
 
-## Recepie for starting a GPU-notebook on Uppmax slurm-system (Snowy-cluster)
+## Recipe for starting a GPU-notebook on Uppmax slurm-system (Snowy-cluster)
 
 1. Log in to your account on Uppmax (User-guide: https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
 
