@@ -10,7 +10,7 @@
 
 4. Execute start-notebook.py python script: `./start-notebook`
 
-This script will do following:
+This start-notebook script is doing the following:
 
   - Sumbit a job requesting a Singularity container (almost the same as a Docker-container) with a personal Jupyter notebook server running on a compute-node with GPU resources on the Uppmax HPC slurm job queue.
   - Wait for the job to start (by looking for the `slurm-xxxx.out` file that gets created in directory of script)
