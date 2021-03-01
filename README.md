@@ -4,7 +4,7 @@
 
 1. Log in to your account on Uppmax (User-guide: https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
 
-2. Clone this repo: `git clone https://github.com/pharmbio/big-data_deeplearning.git`
+2. Clone this repo to your uppmax account: `git clone https://github.com/pharmbio/big-data_deeplearning.git`
 
 3. Execute start-notebook.py python script: `./start-notebook`
 
