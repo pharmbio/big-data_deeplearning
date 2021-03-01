@@ -6,7 +6,9 @@
 
 2. Clone this repo to your uppmax account: `git clone https://github.com/pharmbio/big-data_deeplearning.git`
 
-3. Execute start-notebook.py python script: `./start-notebook`
+3. Change directory to the cloned repo: `cd big-data_deeplearning`
+
+4. Execute start-notebook.py python script: `./start-notebook`
 
 This script will do following:
 
