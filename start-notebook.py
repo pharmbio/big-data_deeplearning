@@ -87,8 +87,9 @@ username = getpass.getuser()
 
 with Popen(['ssh', node, '-L', f'127.0.0.1:{port}:127.0.0.1:{port}', '-T'], stdin=PIPE, stdout=PIPE, stderr=PIPE) as proc:
     print('Notebook started')
-    print('To access notebook first do a port forward by running the following ssh command locally in a new terminal'
-          ' and leave that secondary ssh shell open:')
+    print()
+    print('To access notebook first do a port forward by running the following ssh command locally in a new')
+    print('terminal  and leave that secondary ssh shell open:')
     print()
     print(f'ssh {username}@{socket.gethostname()} -L 127.0.0.1:{port}:127.0.0.1:{port}')
     print()
@@ -96,7 +97,8 @@ with Popen(['ssh', node, '-L', f'127.0.0.1:{port}:127.0.0.1:{port}', '-T'], stdi
     print()
     print(f'http://localhost:{port}')
     print()
-    print("Press Enter in this terminal when you're done with your Notebook and want to cancel. The job has a default time limit of 59 minutes.")
+    print("Press Enter in this terminal when you're done with your Notebook and want to cancel.")
+    print("The job has a default time limit of 59 minutes.")
     input()
     proc.terminate()
 
