@@ -2,7 +2,7 @@
 
 ## Recipe for starting a GPU-notebook on Uppmax slurm-system (Snowy-cluster)
 
-1. Log in to your account on Uppmax (User-guide: https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
+1. Log in to your account on Uppmax: `ssh <username>@rackham.uppmax.uu.se` (User-guide: https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
 
 2. Clone this repo to your uppmax account: `git clone https://github.com/pharmbio/big-data_deeplearning.git`
 
