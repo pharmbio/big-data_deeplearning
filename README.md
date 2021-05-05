@@ -16,3 +16,7 @@ This start-notebook script is doing the following:
   - Wait for the job to start (by looking for the `slurm-xxxx.out` file that gets created in the same directory as the script)
   - Print instructions how to do a ssh-port forward from your local computer to the Jupyter notebook running on the Uppmax system.
   - Print url of the Jupyter notebook that you now can access from you browser.
+
+
+## Unzip the data before you start the lab
+To unzip the data in the LabData.zip you can simply open a terminal and write: unzip LabData.zip
