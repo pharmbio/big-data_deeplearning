@@ -20,4 +20,4 @@ This start-notebook script is doing the following:
 
 
 ## Unzip the data before you start the lab
-To unzip the data in the LabData.zip you can simply open a terminal and write: unzip LabData.zip
+To unzip the data in the LabData folder use the command `tar -xvf` which you used in the storage lab.
