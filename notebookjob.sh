@@ -1,5 +1,5 @@
 #!/bin/sh
-SBATCH -A uppmax2021-2-3 -t 0:59:00 -p core -n 8 -M snowy --gres=gpu:t4:1 --parsable -reservation=uppmax2021-2-3_06
+#SBATCH -A uppmax2021-2-3 -t 0:59:00 -p core -n 8 -M snowy --gres=gpu:t4:1 --parsable -reservation=uppmax2021-2-3_06
 #CENV=${5-tf-gpu}
 #CONTAINER=${6}
 
