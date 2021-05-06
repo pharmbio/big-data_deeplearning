@@ -8,8 +8,8 @@
 
 3. Change directory to the cloned repo: `cd big-data_deeplearning`
 
-4. Execute start-notebook.py python script: `./start-notebook`
-   You can do this by running python3 start-notebook.py in the terminal
+4. Execute start-notebook.py python script: `./start-notebook`  
+   You can do this by running `python3 start-notebook.py` in the terminal
 
 This start-notebook script is doing the following:
 
