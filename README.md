@@ -1,6 +1,16 @@
 # big-data_deeplearning
 
-## Recipe for starting a GPU-notebook on Uppmax slurm-system (Snowy-cluster)
+## Notebook
+Use the jupyter notebook that corresponds with your group number:
+https://student-bdls-XX-notebook.k8s-prod.pharmb.io
+
+Replace the XX. 
+The password will be given during the first Assignment session.
+
+## Unzip the data before you start the lab
+To unzip the data in the LabData folder use the command `tar -xvf` which you used in the storage lab.
+
+## Old instructions: Recipe for starting a GPU-notebook on Uppmax slurm-system (Snowy-cluster)
 
 1. Log in to your account on Uppmax: `ssh <username>@rackham.uppmax.uu.se` (User-guide: https://www.uppmax.uu.se/support/user-guides/guide--first-login-to-uppmax/)
 
@@ -18,6 +28,3 @@ This start-notebook script is doing the following:
   - Print instructions how to do a ssh-port forward from your local computer to the Jupyter notebook running on the Uppmax system.
   - Print url of the Jupyter notebook that you now can access from you browser.
 
-
-## Unzip the data before you start the lab
-To unzip the data in the LabData folder use the command `tar -xvf` which you used in the storage lab.
