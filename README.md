@@ -2,7 +2,7 @@
 
 ## Notebook
 Use the jupyter notebook that corresponds with your group number:
-https://student-bdls-XX-notebook.k8s-prod.pharmb.io
+https://student-bdls-gpu-XX-notebook.k8s-prod.pharmb.io
 
 Replace the XX. 
 The password will be given during the first lab session.
