@@ -11,4 +11,7 @@ The password will be given during the first lab session.
 To unzip the data in the LabData folder use the command `tar -xvf` which you used in the storage lab.
 
 ## Assignments
-Assignments will be uploaded later, so you'll need to pull from this repository. The teachers will give instructions on how to do this when the assignments are ready.
+The mandatory assignment must be passed in order for you to pass the course.
+
+The bonus assignment will get you bonus points for the exam if finsihed. The bonus points are only valid for this years first exam, and only if the bonus assignment is handed in before may 15th.
+
