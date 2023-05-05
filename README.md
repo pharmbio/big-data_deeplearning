@@ -1,5 +1,7 @@
 # Big Data Deep Learning Module - Student version
 
+### Clone this repo to your pod, see notebook section below. You can open terminals in this pod, e.g. during cloning, but we will primarily work in notebooks.
+
 ## Student queue
 https://docs.google.com/document/d/10FA3hfhtEtKvmRO9dKxSrj5AvpDICkOYshEJuV606Zk/edit?usp=sharing 
 
