@@ -2,3 +2,4 @@ slurm*.out
 .ipynb_checkpoints/Assignment1-checkpoint.ipynb
 .ipynb_checkpoints/Assignment2-checkpoint.ipynb
 .ipynb_checkpoints/*
+2023_submissions/*
