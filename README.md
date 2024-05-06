@@ -4,9 +4,6 @@
 
 Contact a teacher if you do not know how to pull a repository
 
-## Student queue
-https://docs.google.com/document/d/10FA3hfhtEtKvmRO9dKxSrj5AvpDICkOYshEJuV606Zk/edit?usp=sharing 
-
 ## Notebook
 Use the jupyter notebook that corresponds with your group number:
 https://student-bdls-gpu-XX-notebook.k8s-prod.pharmb.io
