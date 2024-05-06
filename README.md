@@ -17,5 +17,6 @@ To unzip the data in the LabData folder use the command `tar -xvf` which you use
 ## Assignments
 The mandatory assignment must be passed in order for you to pass the course.
 
-The bonus assignment will get you bonus points for the exam if finsihed. The bonus points are only valid for this years first exam, and only if the bonus assignment is handed in before may 15th.
+The bonus assignment will get you bonus points for the exam if finsihed on time. The bonus points are only valid for this years first exam, and only if the bonus assignment is handed in before may 15th.
+There is one coding part and one written part to the bonus assignment, one bonus point for each.
 
