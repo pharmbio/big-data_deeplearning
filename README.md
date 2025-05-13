@@ -3,13 +3,10 @@
 ### Clone this repo to your pod, see notebook section below. You can open terminals in your pod, e.g. during cloning, but we will primarily work in notebooks.
 
 Contact a teacher if you do not know how to pull a repository
+We will cover how to do this in the first couple of minutes of lab session 1
 
 ## Notebook
-Use the jupyter notebook that corresponds with your group number:
-https://student-bdls-gpu-XX-notebook.k8s-prod.pharmb.io
-
-Replace the XX. 
-The password will be given during the first lab session.
+Use the jupyter notebook that corresponds with your group number, see links and passwords in studium
 
 ## Unzip the data before you start the lab
 To unzip the data in the LabData folder use the command `tar -xvf` which you used in the storage lab.
