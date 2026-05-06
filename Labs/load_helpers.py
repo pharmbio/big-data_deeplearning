@@ -1,18 +1,17 @@
 import os
 from importlib.machinery import SourceFileLoader
 
-def load_helpers(base_path):
+def load_helpers(base_path, load_cnn_helper=True, load_plot_helper=True):
     """
-    Loads the helpers, cnn_helper, and plot_helper modules from SharedUtils.
-
-    If the base_path ends with 'Assignments', 'Labs', or 'LabsAndAssignments',
-    that part will be removed to find the root path where SharedUtils lives.
+    Loads selected helper modules from SharedUtils.
 
     Args:
         base_path (str): Absolute path pointing to the current notebook folder.
+        load_cnn_helper (bool): Whether to load cnn_helper.
+        load_plot_helper (bool): Whether to load plot_helper.
 
     Returns:
-        tuple: (helpers, cnn_helper, plot_helper) loaded as modules.
+        tuple: (helpers, cnn_helper, plot_helper) loaded as modules or None.
     """
     base_path = base_path.rstrip('/')
     subfolders_to_strip = ['Assignments', 'Labs', 'LabsAndAssignments']
@@ -21,6 +20,7 @@ def load_helpers(base_path):
         base_path = os.path.dirname(base_path)
 
     shared_utils_path = os.path.join(base_path, 'SharedUtils')
+    print("Fetching helpers from: " + str(shared_utils_path))
 
     def load_module(module_name):
         path = os.path.join(shared_utils_path, f"{module_name}.py")
@@ -28,8 +28,8 @@ def load_helpers(base_path):
             raise FileNotFoundError(f"Could not find {module_name}.py at: {path}")
         return SourceFileLoader(module_name, path).load_module()
 
-    return (
-        load_module("helpers"),
-        load_module("cnn_helper"),
-        load_module("plot_helper")
-    )
+    helpers = load_module("helpers")
+    cnn_helper = load_module("cnn_helper") if load_cnn_helper else None
+    plot_helper = load_module("plot_helper") if load_plot_helper else None
+
+    return helpers, cnn_helper, plot_helper
