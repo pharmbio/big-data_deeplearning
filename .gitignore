@@ -4,3 +4,4 @@ slurm*.out
 .ipynb_checkpoints/*
 2023_submissions/*
 .DS_Store
+Data/*
